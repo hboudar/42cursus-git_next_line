@@ -131,8 +131,7 @@ char	*get_next_line(int fd)
 		{
 			tmp = list->next;
 			(1) && (free(list->content), list->content = NULL);
-			(1) && (free(list), list = NULL);
-			list = tmp;
+			(1) && (free(list), list = NULL, list = tmp);
 		}
 		return (NULL);
 	}
@@ -142,8 +141,7 @@ char	*get_next_line(int fd)
 		{
 			tmp = list->next;
 			(1) && (free(list->content), list->content = NULL);
-			(1) && (free(list), list = NULL);
-			list = tmp;
+			(1) && (free(list), list = NULL, list = tmp);
 		}
 	}
 	return (ft_get_line(&list));
