@@ -9,6 +9,7 @@
             margin: 0;
             padding: 20px;
             line-height: 1.6;
+            background-color: #f9f9f9;
         }
         h1, h2, h3 {
             color: #333;
@@ -17,9 +18,10 @@
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
+            background-color: #fff;
             border: 1px solid #ddd;
             border-radius: 10px;
-            background-color: #f9f9f9;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         pre {
             background-color: #f0f0f0;
@@ -44,12 +46,18 @@
         a:hover {
             text-decoration: underline;
         }
+        img {
+            display: block;
+            margin: 20px auto;
+        }
     </style>
     <title>Get Next Line</title>
 </head>
 <body>
     <div class="container">
         <h1>Get Next Line</h1>
+        <img src="resources/gnl-finalmark.png" width="350" alt="Final Mark">
+
         <p><strong>Summary:</strong><br>This project is about programming a function that returns a line read from a file descriptor.</p>
         <p><strong>Version:</strong> 12</p>
 
@@ -119,11 +127,4 @@
         </ul>
 
         <h2 id="bonus-part">Chapter IV: Bonus Part</h2>
-        <p>This project is straightforward and doesn’t allow complex bonuses. However, we trust your creativity. If you completed the mandatory part, give a try to this bonus part.</p>
-        <p>Here are the bonus part requirements:</p>
-        <ul>
-            <li>Develop <code>get_next_line()</code> using only one static variable.</li>
-            <li>Your <code>get_next_line()</code> can manage multiple file descriptors at the same time. For example, if you can read from file descriptors 3, 4, and 5,
-</div>
-
-    
+        <p>This project is straightforward and doesn’t allow complex bonuses. However, we trust your creativity. If you completed the mandatory part, give a try to this bonus
