@@ -124,5 +124,6 @@
         <ul>
             <li>Develop <code>get_next_line()</code> using only one static variable.</li>
             <li>Your <code>get_next_line()</code> can manage multiple file descriptors at the same time. For example, if you can read from file descriptors 3, 4, and 5,
+</div>
 
     
