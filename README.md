@@ -3,37 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f9f9f9;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            border: 1px solid #ddd;
-            border-radius: 10px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        code {
-            background-color: #f0f0f0;
-            padding: 2px 4px;
-            border-radius: 3px;
-        }
-    </style>
     <title>Get Next Line</title>
 </head>
 <body>
-    <div class="container">
+    <div>
         <h1>Get Next Line</h1>
         <img src="resources/gnl-finalmark.png" width="350" alt="Final Mark">
         <p><strong>Summary:</strong> This project involves creating a function to read a line from a file descriptor.</p>
