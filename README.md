@@ -12,10 +12,12 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cloneg7/git_next_line?color=blue" />
 </p>
 
+## 📜 Table of Contents
+
 - [💡 Mandatory Part](#m)
 - [💡 Bonus Part](#b)
 
-## 💡 Mandatory Part <a name = "m"></a>
+# 💡 Mandatory Part <a name = "m"></a>
 
 > _The aim of this project is to make you code a function that returns a line, read from a file descriptor._
 
@@ -49,7 +51,7 @@ get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
 ````
 -------
-## 💡 Bonus Part <a name = "b"></a>
+# 💡 Bonus Part <a name = "b"></a>
 
 > As a bonus to the Mandatory requirement, the function should manage multiple file descriptors at the same time.
 
