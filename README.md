@@ -12,12 +12,12 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cloneg7/git_next_line?color=blue" />
 </p>
 
-- [Bbout](#about)
+- [Mandatory](#m)
 - [Getting Started](#getting_started)
 - [Github Actions](#github_actions)
 - [42 São Paulo](#ft_sp)
 
-## 🧐 Bbout <a name = "about"></a>
+## 🧐 Mandatory <a name = "m"></a>
 
 > _The aim of this project is to make you code a function that returns a line, read from a file descriptor._
 
