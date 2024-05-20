@@ -66,11 +66,11 @@ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.
 
 # Bonus Part
 
-<h2 id="previous-section">Previous Section</h2>
+<h2 <a href="#%EF%B8%8F-about">About</a></h2>
 
 <p>Content of the previous section...</p>
 
-<p>As a bonus to the previous requirement <a href="#previous-section">ABOUT</a> the function should manage multiple file descriptors at the same time.</p>
+<p>As a bonus to the previous requirement <a href="#About">ABOUT</a> the function should manage multiple file descriptors at the same time.</p>
 
 	For example, if you can read from the file descriptors 3, 4 and 5, you should be
 	able to read from a different fd per call without losing the reading thread of each
