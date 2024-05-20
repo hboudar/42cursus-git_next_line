@@ -17,7 +17,7 @@
 - [Github Actions](#github_actions)
 - [42 São Paulo](#ft_sp)
 
-## 🧐 Mandatory P <a name = "m"></a>
+## 🧐 Mandatory <a name = "m"></a>
 
 > _The aim of this project is to make you code a function that returns a line, read from a file descriptor._
 
