@@ -11,7 +11,6 @@
 <img alt="Code language count" src="https://img.shields.io/github/languages/count/Cloneg7/git_next_line?color=yellow" />
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cloneg7/git_next_line?color=blue" />
 </p>
--------
 
 ### 📜 Table of Contents
 
