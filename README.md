@@ -13,9 +13,7 @@
 </p>
 
 - [💡 Mandatory Part](#m)
-- [Getting Started](#getting_started)
-- [Github Actions](#github_actions)
-- [42 São Paulo](#ft_sp)
+- [💡 Bonus Part](#b)
 
 ## 💡 Mandatory Part <a name = "m"></a>
 
@@ -51,7 +49,7 @@ get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
 ````
 -------
-# 💡 Bonus Part
+## 💡 Bonus Part <a name = "b"></a>
 
 > As a bonus to the Mandatory requirement, the function should manage multiple file descriptors at the same time.
 
