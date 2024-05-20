@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Cloneg7/git_next_line?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/Cloneg7/git_next_line?color=critical" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/Cloneg7/git_next_line?color=critical" />
 <img alt="Code language count" src="https://img.shields.io/github/languages/count/Cloneg7/git_next_line?color=yellow" />
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cloneg7/git_next_line?color=blue" />
