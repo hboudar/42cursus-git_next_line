@@ -14,7 +14,7 @@
 <h3 align="center">
 	<a href="#%EF%B8%8F-Mandatory part">Mandatory part</a>
 	<span> · </span>
-	<a href="#%EF%B8%8F-Bonus Part">Bonus Part</a>
+	<a href="#%EF%B8%8F-💡 Bonus Part">💡 Bonus Part</a>
 	<span> · </span>
 </h3>
 
