@@ -42,7 +42,7 @@ The function is written in C language and thus needs the **`gcc` compiler** and 
 
 ### Instructions
 
-**1. To use the function in your code, simply include its header**
+**1. To use the function in your code, simply include its header:**
 
 ```C
 #include "get_next_line.h"
@@ -62,7 +62,7 @@ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.
 
 # Bonus Part #
 
-> _As a bonus to the Mandatory requirement, the function should manage multiple file descriptors at the same time.
+> As a bonus to the Mandatory requirement, the function should manage multiple file descriptors at the same time.
 
 	For example, if you can read from the file descriptors 3, 4 and 5, you should be
 	able to read from a different fd per call without losing the reading thread of each
@@ -70,9 +70,7 @@ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.
 	It means that you should be able to call get_next_line() to read from fd 3, then
 	fd 4, then 5, then once again 3, once again 4, and so forth...
 
-**1. Using it in your code**
-
-To use the function in your code, simply include its header:
+**1. To use the function in your code, simply include its header:**
 
 ```C
 #include "get_next_line_bonus.h"
