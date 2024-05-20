@@ -64,7 +64,7 @@ Then simply run this command (change "xx" with desired buffer size) :
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
 ```
 
-###Bonus
+# Bonus Part
 
 > _In the part the function should manage multiple file descriptors at the same time._
 
