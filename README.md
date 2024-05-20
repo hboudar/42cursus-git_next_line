@@ -75,3 +75,27 @@ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.
 	file descriptor or returning a line from another fd.
 	It means that you should be able to call get_next_line() to read from fd 3, then
 	fd 4, then 5, then once again 3, once again 4, and so forth...
+
+**1. Using it in your code**
+
+To use the function in your code, simply include its header:
+
+```C
+#include "get_next_line.h"
+```
+
+and, when compiling your code, add the source files and the required flag:
+
+```shell
+get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
+```
+
+## 📋 Testing
+
+You only have to edit the get_next_line.c file and uncomment the main function and headers inside it.
+You can edit test.txt files to put another text if you wish to test othe cases.
+Then simply run this command (change "xx" with desired buffer size) :
+
+```shell
+gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
+```
