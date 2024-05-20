@@ -12,11 +12,10 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cloneg7/git_next_line?color=blue" />
 
 <h3 align="center">
-	<a href="#%EF%B8%8F-about">About</a>
+	<a href="#%EF%B8%8F-Mandatory part">Mandatory part</a>
 	<span> · </span>
-	<a href="#%EF%B8%8F-usage">Usage</a>
+	<a href="#%EF%B8%8F-Bonus Part">Bonus Part</a>
 	<span> · </span>
-	<a href="#-testing">Testing</a>
 </h3>
 
 -------
@@ -54,7 +53,7 @@ get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
 ````
 -------
-# 💡 Bonus Part #
+# 💡 Bonus Part
 
 > As a bonus to the Mandatory requirement, the function should manage multiple file descriptors at the same time.
 
