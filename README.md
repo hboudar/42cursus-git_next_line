@@ -10,12 +10,13 @@
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Cloneg7/git_next_line?color=lightblue" />
 <img alt="Code language count" src="https://img.shields.io/github/languages/count/Cloneg7/git_next_line?color=yellow" />
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cloneg7/git_next_line?color=blue" />
+</p>
+-------
 
 ### 📜 Table of Contents
 
 - [Mandatory part](#about)
 
--------
 ## 💡 Mandatory part <a name = "mp"></a>
 
 > _The aim of this project is to make you code a function that returns a line, read from a file descriptor._
