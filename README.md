@@ -14,7 +14,7 @@
 
 ## 📜 Table of Contents
 
-- [About](#about)
+- [Mandatory part](#Mandatory)
 - [Getting Started](#getting_started)
 - [Github Actions](#github_actions)
 - [42 São Paulo](#ft_sp)
