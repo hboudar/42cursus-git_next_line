@@ -42,8 +42,8 @@ The function is written in C language and thus needs the **`gcc` compiler** and 
 
 ### Instructions
 
-*1. Using it in your code*
-	To use the function in your code, simply include its header:
+*1.To use the function in your code, simply include its header*
+
 ```C
 #include "get_next_line.h"
 ```
