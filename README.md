@@ -12,9 +12,14 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cloneg7/git_next_line?color=blue" />
 </p>
 
-### 📜 Table of Contents
+## 📜 Table of Contents
 
-- [Mandatory part](#Mandatory)
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Github Actions](#github_actions)
+- [42 São Paulo](#ft_sp)
+
+## 🧐 About <a name = "about"></a>
 
 ## 💡 Mandatory part <a name = "Mandatory"></a>
 
