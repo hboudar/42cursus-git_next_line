@@ -57,7 +57,7 @@ get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 ```
 
 ## 📋 Testing
-	> _Simply run this command (change "xx" with desired buffer size) :
+	Simply run this command (change "xx" with desired buffer size) :
 ```shell
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
 ```
@@ -87,7 +87,7 @@ get_next_line_bonus.c get_next_line_utils_bonus.c -D BUFFER_SIZE=<size>
 ```
 
 ## 📋 Testing
-	> _Simply run this command (change "xx" with desired buffer size) :
+	Simply run this command (change "xx" with desired buffer size) :
 ```shell
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line_bonus.c get_next_line_utils_bonus.c && ./a.out
 ```
