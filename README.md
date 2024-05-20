@@ -14,9 +14,9 @@
 
 ### 📜 Table of Contents
 
-- [Mandatory part](#about)
+- [Mandatory part](#Mandatory part)
 
-## 💡 Mandatory part <a name = "mp"></a>
+## 💡 Mandatory part <a name = "Mandatory part"></a>
 
 > _The aim of this project is to make you code a function that returns a line, read from a file descriptor._
 
