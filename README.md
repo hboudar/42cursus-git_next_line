@@ -46,14 +46,14 @@ get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 ```
 
 #### 📋 Testing
-> Simply run this command (change "xx" with desired buffer size) :
+> Simply run this command (change "xx" with desired buffer size) :_
 ````shell
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
 ````
 -------
 # 💡 Bonus Part <a name = "b"></a>
 
-> As a bonus to the Mandatory requirement, the function should manage multiple file descriptors at the same time.
+> As a bonus to the Mandatory requirement, the function should manage multiple file descriptors at the same time._
 
 	For example, if you can read from the file descriptors 3, 4 and 5, you should be
 	able to read from a different fd per call without losing the reading thread of each
