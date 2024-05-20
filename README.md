@@ -81,13 +81,13 @@ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.
 To use the function in your code, simply include its header:
 
 ```C
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 ```
 
 and, when compiling your code, add the source files and the required flag:
 
 ```shell
-get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
+get_next_line_bonus.c get_next_line_utils_bonus.c -D BUFFER_SIZE=<size>
 ```
 
 ## 📋 Testing
@@ -97,5 +97,5 @@ You can edit test.txt files to put another text if you wish to test othe cases.
 Then simply run this command (change "xx" with desired buffer size) :
 
 ```shell
-gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
+gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line_bonus.c get_next_line_utils_bonus.c && ./a.out
 ```
