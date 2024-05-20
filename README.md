@@ -14,14 +14,14 @@
 
 ## 📜 Table of Contents
 
-- [Mandatory_part](#Mandatory)
+- [Mandatory](#Mandatory)
 - [Getting Started](#getting_started)
 - [Github Actions](#github_actions)
 - [42 São Paulo](#ft_sp)
 
 ## 🧐 About <a name = "about"></a>
 
-## 💡 Mandatory part <a name = "Mandatory"></a>
+## 💡 Mandatory <a name = "Mandatory"></a>
 
 > _The aim of this project is to make you code a function that returns a line, read from a file descriptor._
 
