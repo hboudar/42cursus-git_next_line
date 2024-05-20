@@ -14,7 +14,7 @@
 
 ### 📜 Table of Contents
 
-- [Mandatory part](#Mandatory part)
+- [Mandatory part](#Mandatorypart)
 
 ## 💡 Mandatory part <a name = "Mandatory part"></a>
 
