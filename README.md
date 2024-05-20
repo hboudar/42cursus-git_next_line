@@ -20,10 +20,7 @@
 </h3>
 
 -------
-
-## 💡 About the project
-
-# Mandatory part
+# 💡 Mandatory part
 
 > _The aim of this project is to make you code a function that returns a line, read from a file descriptor._
 
@@ -59,8 +56,8 @@ get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 ````shell
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
 ````
-
-# Bonus Part #
+-------
+# 💡 Bonus Part #
 
 > As a bonus to the Mandatory requirement, the function should manage multiple file descriptors at the same time.
 
