@@ -66,7 +66,7 @@ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.
 
 # Bonus Part
 
-> _In the part the function should manage multiple file descriptors at the same time._
+> _As a bonus to the previous requirment  <a href="#%EF%B8%8F-about">About</a> the function should manage multiple file descriptors at the same time._
 
 	For example, if you can read from the file descriptors 3, 4 and 5, you should be
 	able to read from a different fd per call without losing the reading thread of each
