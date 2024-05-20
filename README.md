@@ -30,9 +30,6 @@
 	on manipulating files for data management and persistence.
 	This project consists of coding a function that returns one line at a time from a text file.
 
-
-## 🛠️ Usage
-
 ### Requirements
 
 The function is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
@@ -51,7 +48,7 @@ and, when compiling your code, add the source files and the required flag:
 get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 ```
 
-# 📋 Testing
+### 📋 Testing
 > Simply run this command (change "xx" with desired buffer size) :
 ````shell
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
@@ -79,7 +76,7 @@ and, when compiling your code, add the source files and the required flag:
 get_next_line_bonus.c get_next_line_utils_bonus.c -D BUFFER_SIZE=<size>
 ```
 
-# 📋 Testing
+### 📋 Testing
 > Simply run this command (change "xx" with desired buffer size) :
 ```shell
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line_bonus.c get_next_line_utils_bonus.c && ./a.out
